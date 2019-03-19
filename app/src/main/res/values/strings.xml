@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GeoQuizStudyGuide</string>
+    <string name="question_europe">Port of Rotterdam is the largest port in Europe. </string>
+    <string name="question_ocean">The Pacific Ocean lies between Europe and America.</string>
+    <string name="question_city">The Eternal City’ refers to Paris.</string>
+    <string name="question_river">The world’s longest river is the Nile River.</string>
+    <string name="question_americas">Argentina is the largest country in South America</string>
+    <string name="question_asia">Asia is the largest continent on the earth.</string>
+    <string name="europe">Europe</string>
+    <string name="ocean">Ocean</string>
+    <string name="city">City</string>
+    <string name="river">River</string>
+    <string name="americas">Americas</string>
+    <string name="asia">Asia</string>
+    <string name="answer_true">True</string>
+    <string name="answer_false">False</string>
+</resources>
